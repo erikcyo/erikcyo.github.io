@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: ErikCYo
+subtitle: This is about a story of newbee, trying the best for newlearn
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<p style="text-align: center;">
+<img src="/img/erik.png" alt="Erik Cyo">
+</p>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hey, this is my github pages, so I have to say something about myself. Sometimes it is hard to introduce yourself because you know yourself so well that you do not know where to start with. Let me give a try to see what kind of image you have about me through my self-description. I hope that my impression about myself and your impression about me are not so different. Here it goes.
 
-What else do you need?
+- I am a person who is positive about every aspect of life
+- I like to learn
+- I like to think hard
+- I like to dream
+- I like to laugh
+- I like code, design or even automated test
 
-### my history
+### my though
+For some reason I just wanted to become useful for my family, my religion, my country, and also my company as well. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, do not expect too much, and keep your sense of humor. 
