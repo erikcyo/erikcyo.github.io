@@ -15,6 +15,6 @@ Hey, this is my github pages, so I have to say something about myself. Sometimes
 - I like code, design or even automated test
 
 ### my opinion
-For some reason I just wanted to become useful for my family, my religion, my country, and also my company as well. 
+For test some reason I just wanted to become useful for my family, my religion, my country, and also my company as well. 
 
 To be honest, do not expect too much, and keep your sense of humor. 
